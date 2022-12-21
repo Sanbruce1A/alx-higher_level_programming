@@ -3,26 +3,19 @@
 ''' A Module that creates a Square object '''
 
 
+class Square
 
-class Square;
 
 ''' Creating an Object template '''
 
 
-
-    def __init__(self, size = 0):
-
-        '''
-
-            The init method initializes the class instance
-
-
+    def __init__(self, size=0):
+    '''
+           The init method initializes the class instance
 
         @self:
 
             A parameter used to refer to the class instance
-
-
 
         @size:
 
